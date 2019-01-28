@@ -1,0 +1,17 @@
+html, body{
+    margin: 40px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.inputs {
+    margin-bottom: 10px;
+}
+
+.err {
+    border: 1px solid red;
+}
