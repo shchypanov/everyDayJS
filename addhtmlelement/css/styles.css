@@ -1,0 +1,13 @@
+html, body, ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+.active{
+    box-shadow: 0 0 5px #f00;
+
+}
+
+.item{
+    margin: 10px;
+}
